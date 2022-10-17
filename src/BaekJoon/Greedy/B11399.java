@@ -21,3 +21,4 @@ public class B11399 {
         System.out.println(sum);
     }
 }
+//간단한 정렬문제

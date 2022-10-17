@@ -18,8 +18,6 @@ public class B1026 {
         for(int x : a)
             System.out.println(x);
         int[] index = new int[n];
-
-
-
     }
+    //b배열을 정렬 안하고 푸는 방법을 고민중
 }

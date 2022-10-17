@@ -25,3 +25,4 @@ public class B11047 {
         System.out.println(count);
     }
 }
+//동전
