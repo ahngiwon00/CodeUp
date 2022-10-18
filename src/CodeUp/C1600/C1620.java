@@ -1,8 +1,8 @@
-package CodeUp.C1620;
+package CodeUp.C1600;
 
 import java.util.Scanner;
 
-public class Main {
+public class C1620 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();

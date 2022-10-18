@@ -1,9 +1,9 @@
-package CodeUp.C2081;
+package CodeUp.C2000;
 
 
 import java.util.Scanner;
 
-public class Main {
+public class C2081 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int[] a = new int[9];

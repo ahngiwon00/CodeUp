@@ -1,8 +1,8 @@
-package CodeUp.C1278;
+package CodeUp.C1200;
 
 import java.util.Scanner;
 
-public class Main {
+public class C1278 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();

@@ -1,8 +1,8 @@
-package CodeUp.C4596;
+package CodeUp.C4500;
 
 import java.util.Scanner;
 
-public class Main {
+public class C4596 {
     public void solution(int[][] a){
 
         int max = a[0][0];
@@ -23,7 +23,7 @@ public class Main {
     }
 
     public static void main(String[] args) {
-        Main main = new Main();
+        C4596 main = new C4596();
         Scanner sc = new Scanner(System.in);
         int[][] a = new int[9][9];
         for (int i = 0; i < a.length; i++) {
